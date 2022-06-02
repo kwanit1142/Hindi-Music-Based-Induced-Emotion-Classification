@@ -20,3 +20,9 @@ As far as the fine-tuning configurations are in concern, the following were perf
 1. The Input Audio Data was sampled at frequency of 16KHz and padded via shorter sliding windows, following by normalization to single-peak central gaussian distribution.
 2. The representation of the Audio-Signals into Image-based Data was done via Mel-Spectrograms.
 3. Train-Test Split was defined to 80-20, Batch-Size was set to 64 for best set of results and Number of Epochs were set to 5.  
+
+# Contributors
+
+1. [Hiteshi Singh](https://github.com/hiteshidudeja)
+2. [Divyanshi Jagetiya](https://github.com/divyyanshii)
+3. [Kwanit Gupta (me)](https://github.com/kwanit1142)
